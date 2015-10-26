@@ -1,2 +1,2 @@
-# Hello-word
+# Hello-world
 a repo-test run
